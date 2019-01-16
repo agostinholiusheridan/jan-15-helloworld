@@ -1,4 +1,7 @@
 #Hello World
-if __name__==;
+"""
+The greatest Hello World Everr
+"""
 
-print ("hello world")
+if __name__== '__main__':
+    print ("hello world")
